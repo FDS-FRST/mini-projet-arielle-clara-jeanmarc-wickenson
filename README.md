@@ -30,7 +30,7 @@ Chaque personnage possède :
 - Initialise le nom, la vie et la force d'attaque
 
 **Méthodes :**
-- `attaquer(Personnage cible)` : diminue la vie de la cible
+- `c` : diminue la vie de la cible
 - `estVivant()` : retourne true si vie > 0
 - `afficherEtat()` : affiche le nom et la vie restante
 
